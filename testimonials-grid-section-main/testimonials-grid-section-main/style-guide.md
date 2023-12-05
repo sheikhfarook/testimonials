@@ -11,15 +11,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-Moderate violet: hsl(263, 55%, 52%)
-Very dark grayish blue: hsl(217, 19%, 35%)
-Very dark blackish blue: hsl(219, 29%, 14%)
-White: hsl(0, 0%, 100%)
+Moderate violet: hsl(263, 55%, 52%) #7541C8
+Very dark grayish blue: hsl(217, 19%, 35%) #48556A
+Very dark blackish blue: hsl(219, 29%, 14%) #19212E
+White: hsl(0, 0%, 100%) #FFFFFF
 
 ### Neutral
 
-Light gray: hsl(0, 0%, 81%)
-Light grayish blue: hsl(210, 46%, 95%)
+Light gray: hsl(0, 0%, 81%) #CFCFCF
+Light grayish blue: hsl(210, 46%, 95%) #ECF2F8
 
 Note for text colors:
 
