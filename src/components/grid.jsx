@@ -10,7 +10,7 @@ const GridsBoxes = () => {
       <div className="sm:w-[30rem] xl:grid xl:grid-cols-8 gap-36 font-barlow xl:w-[75rem] justify-ceter m-auto mt-20 ">
         <div className="xl:grid xl:grid-cols-6 xl:col-span-6 gap-4 ">
           {/* 1 */}
-          <div className=" col-span-4 bg-[#7541C8] shadow-2xl rounded-lg max-sm:w-[25rem] max-sm:m-auto sm:w-[30rem] xl:w-[40rem]">
+          <div className=" col-span-4 bg-[#7541C8] shadow-2xl rounded-lg max-sm:w-[24rem] max-sm:m-auto sm:w-[30rem] xl:w-[40rem]">
             <div className="bgimg">
               <div className=" m-auto space-y-4 max-sm:w-[311px] sm:w-[311px] xl:w-[35rem] ">
                 <div className="flex ">
@@ -50,7 +50,7 @@ const GridsBoxes = () => {
             </div>
           </div>
           {/* 2 */}
-          <div className="col-span-2 bg-[#48556A] shadow-2xl rounded-lg max-sm:w-[25rem] max-sm:m-auto sm:w-[30rem] xl:ml-20 xl:w-[20rem] ">
+          <div className="col-span-2 bg-[#48556A] shadow-2xl rounded-lg max-sm:w-[24rem] max-sm:m-auto sm:w-[30rem] xl:ml-20 xl:w-[20rem] ">
             <div className=" m-auto space-y-4 max-sm:w-[308px] sm:w-[308px] xl:w-[15rem]">
               <div className="flex">
                 <img
@@ -79,7 +79,7 @@ const GridsBoxes = () => {
             </div>
           </div>
           {/* 3 */}
-          <div className="col-span-2 bg-[#FFFFFF] shadow-2xl rounded-lg max-sm:w-[25rem] max-sm:m-auto sm:w-[30rem] xl:w-[20rem] ">
+          <div className="col-span-2 bg-[#FFFFFF] shadow-2xl rounded-lg max-sm:w-[24rem] max-sm:m-auto sm:w-[30rem] xl:w-[20rem] ">
             <div className=" m-auto space-y-4  max-sm:w-[308px] sm:w-[308px] xl:w-[15rem]">
               <div className="flex">
                 <img
@@ -107,7 +107,7 @@ const GridsBoxes = () => {
             </div>
           </div>
           {/* 4 */}
-          <div className=" col-span-4  bg-[#19212E] shadow-2xl rounded-lg max-sm:w-[25rem] max-sm:m-auto sm:w-[30rem] xl:w-[40rem] xl:ml-14 ">
+          <div className=" col-span-4  bg-[#19212E] shadow-2xl rounded-lg max-sm:w-[24rem] max-sm:m-auto sm:w-[30rem] xl:w-[40rem] xl:ml-14 ">
             <div className="max-sm:w-[311px] sm:w-[311px] xl:w-[35rem]  m-auto space-y-4">
               <div className="flex">
                 <img
@@ -140,7 +140,7 @@ const GridsBoxes = () => {
           </div>
         </div>
         {/* 5 */}
-        <div className="col-span-2 bg-[#FFFFFF] shadow-2xl rounded-lg max-sm:w-[25rem] max-sm:m-auto sm:w-[30rem] xl:w-[20rem]">
+        <div className="col-span-2 bg-[#FFFFFF] shadow-2xl rounded-lg max-sm:w-[24rem] max-sm:m-auto sm:w-[30rem] xl:w-[20rem]">
           <div className=" m-auto space-y-4 max-sm:w-[321px] sm:w-[321px] xl:w-[15rem]">
             <div className="flex">
               <img
